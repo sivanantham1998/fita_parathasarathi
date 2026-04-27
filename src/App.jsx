@@ -56,7 +56,7 @@ function App() {
       <Reducer /> */}
         {/* <Form />
       <Output /> */}
-<h1>Hello welcome to react js</h1>
+        <h1>Hello welcome to react js</h1>
         <Routes>
           <Route path="/" element={<Addtion user={a} />} >
 
