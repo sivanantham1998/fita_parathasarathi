@@ -35,7 +35,7 @@ function App() {
   return (
     <div>
       <h1>
-        welcome to parthasarathi
+        welcome to parthasarathi (demo 1)
       </h1>
       <demoContext.Provider value={data}>
         <button onClick={() => dispatch({ type: "INCREMENT" })}>
